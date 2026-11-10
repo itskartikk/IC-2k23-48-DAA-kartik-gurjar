@@ -1,7 +1,7 @@
 # Design and Analysis of Algorithms — Lab Practicals
 
 **Kartik Gurjar** — Roll No. **IC-2K23-48**
-MCA, Semester 5
+MCA, Semester 7
 
 Python implementations of the Design and Analysis of Algorithms lab
 practicals. Each program prints its working step by step and reports the
