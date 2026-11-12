@@ -43,7 +43,7 @@ python3 complexity_analyser.py
 ## Author
 
 **Kartik Gurjar**
-Roll No. IC-2K23-48 · MCA Semester 5
+Roll No. IC-2K23-48 · MCA Semester 7
 GitHub: [@itskartikk](https://github.com/itskartikk)
 
 Submitted as part of the Design and Analysis of Algorithms Laboratory coursework.
